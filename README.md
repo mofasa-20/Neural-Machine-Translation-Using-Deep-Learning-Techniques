@@ -129,7 +129,7 @@ model.fit([train_french_sentence, train_english_sentence_in], train_english_sent
            callbacks = [tensorboard, early_stopping])
 </pre>
 
-![Log Loss Plot Encoder Decoder](provide_path)
+![Log Loss Plot Encoder Decoder](C:\Users\dell\Desktop\Deep Learning Project\LL-Encoder)
 ![Log Loss Plot Attention](provide_path)
 
 ## Documentation:
@@ -139,4 +139,5 @@ Provide Report
 ## Other resources:
 
 [Translation Engines](https://user-images.githubusercontent.com/74071047/164985524-71b5dd60-be4c-4a0f-a210-cbc4f1253cac.png)
+
 [ALPAC- (Automatic Language Processing Advisory Committee](https://en.wikipedia.org/wiki/ALPAC)
