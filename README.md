@@ -145,7 +145,7 @@ model.fit([train_french_sentence, train_english_sentence_in], train_english_sent
 
 [Translation Engines](https://user-images.githubusercontent.com/74071047/164985524-71b5dd60-be4c-4a0f-a210-cbc4f1253cac.png)
 
-[ALPAC- (Automatic Language Processing Advisory Committee](https://en.wikipedia.org/wiki/ALPAC)
+[ALPAC- Automatic Language Processing Advisory Committee](https://en.wikipedia.org/wiki/ALPAC)
 
 [Recursive hetero-associative memories for translation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.1968&rep=rep1&type=pdf)
 
@@ -154,6 +154,14 @@ model.fit([train_french_sentence, train_english_sentence_in], train_english_sent
 [Recurrent Continuous Translation Models](https://aclanthology.org/D13-1176/)
 
 [Sequence to Sequence Learning with Neural Networks](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
+
+[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473#)
+
+[Neural Computation - Long Short-Term Memory - LSTM ](https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory?redirectedFrom=fulltext)
+
+[Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
+
+[Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)
 
 
 
