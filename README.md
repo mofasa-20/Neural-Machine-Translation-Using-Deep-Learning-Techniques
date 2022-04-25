@@ -164,6 +164,7 @@ model.fit([train_french_sentence, train_english_sentence_in], train_english_sent
 [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)
 
 
-
+## Remark:
+Path - Path is hardcoded in the coding so please change the path before you run the code.
 
 
