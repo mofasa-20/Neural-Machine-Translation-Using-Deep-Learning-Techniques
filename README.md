@@ -131,12 +131,11 @@ model.fit([train_french_sentence, train_english_sentence_in], train_english_sent
 
 ![Log Loss Plot Encoder Decoder](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/LL-Encoder.JPG)
 
-![Log Loss Plot Attention](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/Attention model.JPG)
+![Log Loss Plot Attention](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/Attention%20model.JPG)
 
-![Log Loss Plot Data Dot Product](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/LL-Data Dot.JPG)
+![Log Loss Plot Data Dot Product](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/LL-Data%20Dot.JPG)
 
-![Log Loss Plot Attention Concat](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/Attention model concat.JPG)
-
+![Log Loss Plot Attention Concat](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/Attention%20model%20concat.JPG)
 
 ## Documentation:
 
@@ -151,6 +150,8 @@ Provide Report
 [Recursive hetero-associative memories for translation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.1968&rep=rep1&type=pdf)
 
 [JANUS: a speech-to-speech translation system using connectionist and symbolic processing Strategies](https://isl.anthropomatik.kit.edu/downloads/CP_1991_JANUS-_A_Speech-to-Speech_Translation_System_Using_Connectionist_and_Symbolic_Processing_Strategies(1).pdf)
+
+[Recurrent Continuous Translation Models](https://aclanthology.org/D13-1176/)
 
 
 
