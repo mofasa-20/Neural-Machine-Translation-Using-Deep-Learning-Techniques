@@ -130,7 +130,10 @@ model.fit([train_french_sentence, train_english_sentence_in], train_english_sent
 </pre>
 
 ![Log Loss Plot Encoder Decoder](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/LL-Encoder.JPG)
-![Log Loss Plot Attention](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/LL-Data Dot)
+![Log Loss Plot Attention](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/Attention model.JPG)
+![Log Loss Plot Data Dot Product](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/LL-Data Dot.JPG)
+![Log Loss Plot Attention Concat](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/Attention model concat.JPG)
+
 
 ## Documentation:
 
@@ -141,3 +144,7 @@ Provide Report
 [Translation Engines](https://user-images.githubusercontent.com/74071047/164985524-71b5dd60-be4c-4a0f-a210-cbc4f1253cac.png)
 
 [ALPAC- (Automatic Language Processing Advisory Committee](https://en.wikipedia.org/wiki/ALPAC)
+
+[Recursive hetero-associative memories for translation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.1968&rep=rep1&type=pdf)
+
+
