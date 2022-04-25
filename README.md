@@ -145,6 +145,8 @@ model.fit([train_french_sentence, train_english_sentence_in], train_english_sent
 
 [Translation Engines](https://user-images.githubusercontent.com/74071047/164985524-71b5dd60-be4c-4a0f-a210-cbc4f1253cac.png)
 
+[Translation Engines](https://www.academia.edu/5965803/Translation_Engines_Techniques_for_Machine_Translation_Arturo_Trujillo_Springer_Verlag_Applied_Computing_Heidelberg_1999_ISBN_1_85233_057_0111
+
 [ALPAC- Automatic Language Processing Advisory Committee](https://en.wikipedia.org/wiki/ALPAC)
 
 [Recursive hetero-associative memories for translation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.1968&rep=rep1&type=pdf)
