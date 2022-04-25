@@ -139,3 +139,4 @@ Provide Report
 ## Other resources:
 
 [Translation Engines](https://user-images.githubusercontent.com/74071047/164985524-71b5dd60-be4c-4a0f-a210-cbc4f1253cac.png)
+[ALPAC- (Automatic Language Processing Advisory Committee](https://en.wikipedia.org/wiki/ALPAC)
