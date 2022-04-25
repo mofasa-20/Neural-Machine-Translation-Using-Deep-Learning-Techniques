@@ -42,10 +42,10 @@ pip install tensorflow==2.8.0
 
 Name                             | Local/global | Data layout              | Architecture/method | Implementation 
 ---------------------------------|--------------|--------------------------|---------------------|----------------
-NMT using Encoder-Decoder        | Global       | Text                     | Encoder Decoder using LSTM | [Path](provide path)|
-NMT using Attention              | Global       | Text                     | Attention with Dot product of context vector | [Path](provide path)|
-NMT using Attention              | Global       | Text                     | Attention with General Method (added dense layer with an extra attention unit) | [Path](provide path)|
-NMT using Attention              | Global       | Text                     | Attention with concatenation of outputs (added tanh acitvation) | [Path](provide path)|
+NMT using Encoder-Decoder        | Global       | Text                     | Encoder Decoder using LSTM | [Path](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Codes/02_encoder_decoder_model.py)|
+NMT using Attention Dot Product  | Global       | Text                     | Attention with Dot product of context vector | [Path](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Codes/03_attention_dot.py)|
+NMT using Attention General      | Global       | Text                     | Attention with General Method (added dense layer with an extra attention unit) | [Path](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Codes/04_attention_general.py)|
+NMT using Attention Concat       | Global       | Text                     | Attention with concatenation of outputs (added tanh acitvation) | [Path](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Codes/05_attention_concat.py)|
 
 ## Running on System
 
