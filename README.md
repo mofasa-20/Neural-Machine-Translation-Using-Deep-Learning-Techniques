@@ -4,7 +4,7 @@
 [![PyPI](https://warehouse-camo.ingress.cmh1.psfhosted.org/76cd0764983d405a55b91b028b8ea467797f1816/68747470733a2f2f62616467652e667572792e696f2f70792f74656e736f72666c6f772e737667)](https://pypi.org/project/tensorflow/2.8.0/)
 [![tqdm](https://warehouse-camo.ingress.cmh1.psfhosted.org/6c7e16a4732b3e24d08c464d155bde3b89d95f80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f7471646d2e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)](https://pypi.org/project/tqdm/4.64.0/)
 
-.
+
 <p align="justify">
     Neural Machine Translation has become a benchmark in machine translation, and even Google Translate is using Neural Machine Translation as its backbone. Though it has achieved a remarkable feat in recent years, there are still many scopes to improve the models using various new approaches. Here I have implemented several Neural Machine Translation models using various deep learning techniques that can effectively and robustly predict the sentences from French to English language.
 </p>
