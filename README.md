@@ -1,10 +1,10 @@
 # Neural Machine Translation Using Deep Learning Techniques
 
-[![PyPI](https://img.shields.io/pypi/v/gluonts.svg?style=flat-square)](https://pypi.org/project/gluonts/)
-[![GitHub](https://img.shields.io/github/license/awslabs/gluon-ts.svg?style=flat-square)](./LICENSE)
-[![Static](https://img.shields.io/static/v1?label=docs&message=stable&color=blue&style=flat-square)][stable docs url]
-[![Static](https://img.shields.io/static/v1?label=docs&message=dev&color=blue&style=flat-square)][development docs url]
-[![PyPI Downloads](https://pepy.tech/badge/gluonts)](https://pypi.org/project/gluonts/)
+[![Python](https://pypi.org/project/tensorflow/2.8.0/)
+
+[![tensorflow](https://pypi.org/project/tensorflow/2.8.0/)
+
+
 
 <p align="justify">
     Neural Machine Translation has become a benchmark in machine translation, and even Google Translate is using Neural Machine Translation as its backbone. Though it has achieved a remarkable feat in recent years, there are still many scopes to improve the models using various new approaches. Here I have implemented several Neural Machine Translation models using various deep learning techniques that can effectively and robustly predict the sentences from French to English language.
