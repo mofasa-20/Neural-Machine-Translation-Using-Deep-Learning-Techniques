@@ -129,8 +129,8 @@ model.fit([train_french_sentence, train_english_sentence_in], train_english_sent
            callbacks = [tensorboard, early_stopping])
 </pre>
 
-![Log Loss Plot Encoder Decoder](C:\Users\dell\Desktop\Deep Learning Project\LL-Encoder)
-![Log Loss Plot Attention](provide_path)
+![Log Loss Plot Encoder Decoder](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/LL-Encoder.JPG)
+![Log Loss Plot Attention](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/LL-Data Dot)
 
 ## Documentation:
 
