@@ -139,7 +139,7 @@ model.fit([train_french_sentence, train_english_sentence_in], train_english_sent
 
 ## Documentation:
 
-Provide Report
+[Report](https://github.com/mofasa-20/Neural-Machine-Translation-Using-Deep-Learning-Techniques/blob/main/Report/DS8013_Project_Report_Mohammed_Abdul_Faheem.pdf)
 
 ## Other resources:
 
@@ -152,6 +152,8 @@ Provide Report
 [JANUS: a speech-to-speech translation system using connectionist and symbolic processing Strategies](https://isl.anthropomatik.kit.edu/downloads/CP_1991_JANUS-_A_Speech-to-Speech_Translation_System_Using_Connectionist_and_Symbolic_Processing_Strategies(1).pdf)
 
 [Recurrent Continuous Translation Models](https://aclanthology.org/D13-1176/)
+
+[Sequence to Sequence Learning with Neural Networks](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
 
 
 
